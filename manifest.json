@@ -1,0 +1,28 @@
+{
+  "name": "מעקב קלוריות",
+  "short_name": "קלוריות",
+  "description": "מעקב קלוריות יומי חכם",
+  "start_url": "/Calories-Tracker-/",
+  "scope": "/Calories-Tracker-/",
+  "display": "standalone",
+  "background_color": "#2d5a27",
+  "theme_color": "#2d5a27",
+  "orientation": "portrait",
+  "lang": "he",
+  "dir": "rtl",
+  "icons": [
+    {
+      "src": "/Calories-Tracker-/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/Calories-Tracker-/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["health", "fitness", "lifestyle"]
+}
